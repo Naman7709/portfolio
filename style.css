@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/ruvim-noga-o0R4iqk1eRQ-unsplash.jpg") no-repeat center;
+    background: url("images/Back_g.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
